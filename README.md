@@ -1,6 +1,7 @@
 # NKM---Web-Project-Structure
 🖥️ A simple and lazy Web Development project structure based on ITCSS Method and HubSpot Methodologies. 🚀
 
+<pre>
            ,--.  ,--.,--. ,--.,--.   ,--.                          
 ,-----.    |  ,'.|  ||  .'   /|   `.'   |    ,-----.               
 '-----'    |  |' '  ||  .   ' |  |'.'|  |    '-----'               
@@ -60,3 +61,4 @@ _        1 - Settings
 V
 
 x=============x Pyramid Top Inverted x=============x
+</pre>
