@@ -59,7 +59,7 @@ _        1 - Settings
 |        be specific when creating the components.
 |
 |        7 - Trumps
-|        It is the layer with greater specificity. Here we create small classes with "! Important;" to overwrite certain rules.
+|        It is the layer with greater specificity. Here we create small classes with "!important;" to overwrite certain rules.
 V
 
 x=============x Pyramid Top Inverted x=============x
