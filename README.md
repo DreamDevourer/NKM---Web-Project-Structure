@@ -1,5 +1,12 @@
-# NKPS-Web-Project-Structure
-🖥️ A simple and lazy Web Development project structure based on ITCSS Method and HubSpot Methodologies. 🚀
+<h1 align="center">NKPS Web Project Structure 🚀</h1>
+
+<p align="center">A simple and lazy Web Development project structure based on ITCSS Method and HubSpot Methodologies.</p>
+
+<p align="center">
+  <a href="./LICENSE">License</a>
+</p>
+
+<h3> How the Project Structure works </h3>
 
 <pre>
                                                            
