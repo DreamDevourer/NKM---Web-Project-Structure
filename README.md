@@ -6,7 +6,9 @@
   <a href="./LICENSE">License</a>
 </p>
 
-<h3> How the Project Structure works </h3>
+## 👷‍♂️ How the Project Structure works
+
+This repository aims to be very minimal, generic and useful for vanilla web development with HTML and CSS, without much complication and clear approach on each file.
 
 <pre>
                                                            
@@ -71,3 +73,15 @@ V
 
 x=============x Pyramid Top Inverted x=============x
 </pre>
+
+## 📄 License
+
+Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
+
+| Permissions | Restrictions | Conditions
+| --- | --- | --- 
+&check; Commercial Use | &times; Liability | &#x1f6c8; License and Copyright Notice
+&check; Modification   | &times; Warranty | &#x1f6c8; State changes
+&check; Distribution |  | &#x1f6c8; Disclose source
+&check; Patent Use |  | &#x1f6c8; Same license
+&check; Private Use
