@@ -6,10 +6,6 @@ This is the first layer that will actually apply CSS final and it is intended fo
 most generic properties. In general, it is where we put resets, box-sizing, etc.
 */
 
-{##
-## Normalize
-##}
-
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 
 /* Document
